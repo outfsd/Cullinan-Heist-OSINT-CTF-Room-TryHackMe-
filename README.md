@@ -63,6 +63,6 @@ AI (Claude) assisted with an initial challenge outline, the blog's HTML, the gra
 
 ## Play it
 
- Cullinanheist OSINT
+https://tryhackme.com/jr/cullinanheistosint
 
-!image.png
+
