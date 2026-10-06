@@ -18,10 +18,13 @@ The idea was to build an OSINT challenge that is beginner-friendly but fun to so
 The thief is a completely made-up persona with a consistent backstory. His
 footprint is spread across several places:
 
-- **A personal blog** hosted on GitHub Pages.
-<img width="1902" height="916" alt="thief&#39;s-blog" src="https://github.com/user-attachments/assets/93791c3f-c72c-4ef3-9a4b-e324121af14d" />
+His footprint is spread across several places:
+
+- **A personal blog** hosted on GitHub Pages
 - **GitHub repositories** whose commit history reveals something
 - **A Reddit profile** with a post and a comment that complete the story
+
+<img width="1902" height="916" alt="thief's blog" src="https://github.com/user-attachments/assets/93791c3f-c72c-4ef3-9a4b-e324121af14d" />
 
 ## Techniques covered
 
