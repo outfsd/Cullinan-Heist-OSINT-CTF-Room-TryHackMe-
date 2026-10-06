@@ -1,4 +1,5 @@
 # Cullinan-Heist-OSINT-CTF-Room-TryHackMe-
+![Banner](images/cullinan-heist-banner.png)
 A beginner-friendly OSINT challenge I designed and built, where players track a fictional thief across multiple platforms to recover stolen diamonds. Covers username enumeration, metadata analysis, git history, decoding and geolocation.
 
 !cullinan-heist-banner.png
@@ -18,7 +19,7 @@ The thief is a completely made-up persona with a consistent backstory. His
 footprint is spread across several places:
 
 - **A personal blog** hosted on GitHub Pages.
-
+![Blog](images/thief's-blog.png)
 !image.png
 
 - **GitHub repositories** whose commit history reveals something
@@ -65,4 +66,4 @@ AI (Claude) assisted with an initial challenge outline, the blog's HTML, the gra
 
 https://tryhackme.com/jr/cullinanheistosint
 
-
+![Screenshot](images/Cullinan-heist-OSINT.png)
