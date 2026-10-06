@@ -2,8 +2,6 @@
 <img width="1920" height="300" alt="cullinan-heist-banner" src="https://github.com/user-attachments/assets/1e7ae431-ed5c-4e41-b78e-f93ef328afa6" />
 A beginner-friendly OSINT challenge I designed and built, where players track a fictional thief across multiple platforms to recover stolen diamonds. Covers username enumeration, metadata analysis, git history, decoding and geolocation.
 
-!cullinan-heist-banner.png
-
 I'm an 17-year-old student from Switzerland and I'm in the top 2% on TryHackMe. This is the second room I built myself. 
 
 > This writeup explains how the room was built. It contains **no answers or flags**.
